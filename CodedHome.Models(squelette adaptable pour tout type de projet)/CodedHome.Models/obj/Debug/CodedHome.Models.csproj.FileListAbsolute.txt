@@ -1,0 +1,5 @@
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Models\bin\Debug\CodedHome.Models.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Models\bin\Debug\CodedHome.Models.pdb
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Models\obj\Debug\CodedHome.Models.csprojResolveAssemblyReference.cache
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Models\obj\Debug\CodedHome.Models.dll
+c:\users\eyebe\pictures\documents\visual studio 2012\Projects\CodedHome.Models\CodedHome.Models\obj\Debug\CodedHome.Models.pdb
