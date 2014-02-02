@@ -1,1 +1,1 @@
-se loger en tant admin sous windows
+se logguer en tant que admin sous windows
